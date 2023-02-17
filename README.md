@@ -21,7 +21,7 @@ Here are some ideas to get you started:-->
 
 
 - 🔭 I’m currently working on CodeF
-- 🌱 I’m currently learning CleanCode / TDD / Architecture / Android with Flutter
+- 🌱 I’m currently learning CleanCode / Architecture / Modularization / Android with Flutter
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
