@@ -20,7 +20,7 @@ Here are some ideas to get you started:-->
 </div>
 
 
-- 🔭 I’m currently working on HectoData
+- 🔭 I’m currently working on Hecto
 - 🌱 I’m currently learning CleanCode / Architecture / Modularization / Android with Flutter
 
 
