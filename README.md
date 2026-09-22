@@ -21,6 +21,6 @@ Here are some ideas to get you started:-->
 
 
 - 🔭 I'm currently preparing for AI-Native
-- 🌱 I’m currently learning CleanCode / Architecture / Modularization / Android with Flutter
+- 🌱 I’m interested in CleanCode / Architecture / Modularization / Android with Flutter
 
 
